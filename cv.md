@@ -25,8 +25,7 @@ ________
 * CSS
 * JavaScript (Basic)
 * Git (Basic)
-
-________
+_______
 ## Education
 
 * University: 
